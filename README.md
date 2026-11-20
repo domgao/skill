@@ -6,7 +6,7 @@ A reusable agent skill for designing, reviewing, and implementing APIs across fr
 
 Use the Codex skill installer with this folder URL:
 
-`https://github.com/domgao/skill/tree/main/.agents/skills/api-contract-workflow`
+`https://github.com/domgao/skill/tree/master/.agents/skills/api-contract-workflow`
 
 Or copy `.agents/skills/api-contract-workflow` into a skill directory that your agent discovers.
 
