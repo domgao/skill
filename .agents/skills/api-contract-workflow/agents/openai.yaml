@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "API Contract Workflow"
+  short_description: "Trace API changes across client and server"
+  default_prompt: "Use $api-contract-workflow to trace and implement this API change across the client and server."
