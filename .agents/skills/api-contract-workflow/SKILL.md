@@ -3,6 +3,8 @@ name: api-contract-workflow
 description: Review, design, or implement API changes across a client and server. Use for HTTP or streaming endpoints, request/response models, validation, error mapping, and synchronized client contracts.
 ---
 
+Copyright 2026 domgao. Licensed under the Apache License, Version 2.0. See the repository LICENSE and NOTICE files.
+
 # API Contract Workflow
 
 Use this skill when an API task spans—or may affect—both a client and a server. Adapt the steps to the repository's language, framework, architecture, and established conventions; do not impose a specific stack.
