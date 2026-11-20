@@ -14,3 +14,7 @@ Or copy `.agents/skills/api-contract-workflow` into a skill directory that your 
 
 - `SKILL.md`: workflow and API contract conventions
 - `agents/openai.yaml`: Codex display metadata and default prompt
+
+## License
+
+Copyright 2026 domgao. Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
